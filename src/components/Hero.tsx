@@ -23,8 +23,7 @@ const Hero = () => {
         <div className="absolute w-80 h-80 rounded-full bg-indigo-200/20 blur-3xl top-1/3 -right-10 animate-float" style={{ animationDelay: '1s' }}></div>
         <div className="absolute w-64 h-64 rounded-full bg-purple-200/20 blur-3xl bottom-10 left-1/3 animate-float" style={{ animationDelay: '2s' }}></div>
       </div>
-
-      <div className="container relative mx-auto px-6 py-16 md:py-24 text-center z-10">
+<div className="container relative mx-auto px-6 py-16 md:py-24 text-center z-10">
         <div 
           className={`transition-all duration-1000 transform ${
             isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-20'
