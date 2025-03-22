@@ -54,7 +54,7 @@ const About = () => {
                 <div className="overflow-hidden rounded-[22px] aspect-[4/5] bg-gray-200">
                   <div className="w-full h-full bg-gradient-to-br from-indigo-300 to-blue-400 text-white flex items-center justify-center text-5xl font-bold">
                                       <img 
-                      src="/zaed.png" 
+                      src="public/zaed.png" 
                       alt="Akhmad Zaed" 
                       className="w-full h-full bg-gradient-to-br from-indigo-300 to-blue-400 text-white flex items-center overflow-hidden rounded-[22px] aspect-[4/5] mx-auto mb-6" 
                     />
