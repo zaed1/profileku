@@ -14,7 +14,7 @@ const MOCK_POSTS = [
     date: "2025-03-27",
     author: "Akhmad Zaed",
     category: "Web Development",
-    coverImage: "/css.png",
+    coverImage: "/dist/css.png",
     slug: "building-responsive-websites-with-tailwind"
   },
   {
@@ -24,7 +24,7 @@ const MOCK_POSTS = [
     date: "2025-03-20",
     author: "Akhmad Zaed",
     category: "React",
-    coverImage: "/hooks.png",
+    coverImage: "/dist/hooks.png",
     slug: "getting-started-with-react-hooks"
   },
   {
@@ -34,7 +34,7 @@ const MOCK_POSTS = [
     date: "2025-03-25",
     author: "Akhmad Zaed",
     category: "Technology",
-    coverImage: "/futuredev.png",
+    coverImage: "/dist/futuredev.png",
     slug: "future-of-web-development"
   }
 ];
