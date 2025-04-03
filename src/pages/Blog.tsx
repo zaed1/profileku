@@ -11,30 +11,30 @@ const MOCK_POSTS = [
     id: 1,
     title: "Building Responsive Websites with Tailwind CSS",
     excerpt: "Learn how to create beautiful responsive layouts quickly with Tailwind CSS framework.",
-    date: "2023-04-15",
+    date: "2025-03-27",
     author: "Akhmad Zaed",
     category: "Web Development",
-    coverImage: "/placeholder.svg",
+    coverImage: "/css.png",
     slug: "building-responsive-websites-with-tailwind"
   },
   {
     id: 2,
     title: "Getting Started with React Hooks",
     excerpt: "Discover how React Hooks can simplify your code and make your components more reusable.",
-    date: "2023-05-20",
+    date: "2025-03-20",
     author: "Akhmad Zaed",
     category: "React",
-    coverImage: "/placeholder.svg",
+    coverImage: "/hooks.png",
     slug: "getting-started-with-react-hooks"
   },
   {
     id: 3,
     title: "The Future of Web Development",
     excerpt: "Exploring upcoming trends and technologies that will shape the future of web development.",
-    date: "2023-06-10",
+    date: "2025-03-25",
     author: "Akhmad Zaed",
     category: "Technology",
-    coverImage: "/placeholder.svg",
+    coverImage: "/futuredev.png",
     slug: "future-of-web-development"
   }
 ];
