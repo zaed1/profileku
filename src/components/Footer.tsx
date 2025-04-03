@@ -67,18 +67,20 @@ const Footer = () => {
             >
               <Mail size={18} />
             </a>
-            <a
-              href="#"
-              className="w-9 h-9 rounded-full bg-gray-100 hover:bg-indigo-600 hover:text-white flex items-center justify-center transition-colors"
-              aria-label="GitHub"
-            >
+              <a
+                href="https://github.com/your-username/your-repo"
+                className="w-9 h-9 rounded-full bg-gray-100 hover:bg-indigo-600 hover:text-white flex items-center justify-center transition-colors"
+                aria-label="GitHub"
+              >
+
               <Github size={18} />
             </a>
-            <a
-              href="#"
-              className="w-9 h-9 rounded-full bg-gray-100 hover:bg-indigo-600 hover:text-white flex items-center justify-center transition-colors"
-              aria-label="LinkedIn"
-            >
+              <a
+                href="https://www.linkedin.com/in/your-profile"
+                className="w-9 h-9 rounded-full bg-gray-100 hover:bg-indigo-600 hover:text-white flex items-center justify-center transition-colors"
+                aria-label="LinkedIn"
+              >
+
               <Linkedin size={18} />
             </a>
           </div>
