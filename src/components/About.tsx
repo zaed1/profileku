@@ -53,11 +53,10 @@ const About = () => {
               <div className="bg-gradient-to-tr from-white to-gray-100 p-1 shadow-xl rounded-3xl relative z-10">
                 <div className="overflow-hidden rounded-[22px] aspect-[4/5] bg-gray-200">
                   <div className="w-full h-full bg-gradient-to-br from-indigo-300 to-blue-400 text-white flex items-center justify-center text-5xl font-bold">
-                                      <img 
-                      src="public/zaed.png" 
-                      alt="Akhmad Zaed" 
-                      className="w-full h-full bg-gradient-to-br from-indigo-300 to-blue-400 text-white flex items-center overflow-hidden rounded-[22px] aspect-[4/5] mx-auto mb-6" 
-                    />
+                      <img 
+                        src="zaed.png" 
+                        alt="Akhmad Zaed" 
+                        className="w-full h-full bg-gradient-to-br from-indigo-300 to-blue-400 text-white flex items-center overflow-hidden rounded-[22px] aspect-[4/5] mx-auto mb-6" />
                   </div>
                 </div>
               </div>
